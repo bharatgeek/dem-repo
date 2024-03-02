@@ -1,3 +1,1 @@
-## this is my file
-hi my name is bharat
-123
+Files have been deleted. Here is a fresh file
